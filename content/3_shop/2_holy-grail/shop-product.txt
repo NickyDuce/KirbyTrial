@@ -1,0 +1,37 @@
+Title: Holy grail
+
+----
+
+Price: 999
+
+----
+
+Brand: The real one
+
+----
+
+Link: 
+
+----
+
+Shipping: 
+
+----
+
+Colors:
+
+- 
+  color: '#ff765e'
+  name: Swim Vest Red
+
+----
+
+Summary: 
+
+----
+
+Description: <p>1000% real</p>
+
+----
+
+Uuid: uFMeQ2jn5Nrm5g4B

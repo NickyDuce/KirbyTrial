@@ -1,0 +1,43 @@
+Title: Banana
+
+----
+
+Price: 10
+
+----
+
+Brand: Yummy Fruits
+
+----
+
+Link: 
+
+----
+
+Shipping: DHL standard
+
+----
+
+Colors:
+
+- 
+  color: '#9e5c00'
+  name: Rotten Brown
+- 
+  color: '#ffe100'
+  name: Ripe Yellow
+- 
+  color: '#baff4c'
+  name: Unripe Green
+
+----
+
+Summary: 
+
+----
+
+Description: <p>It's healthy and yellow</p>
+
+----
+
+Uuid: PtSE6fjcQsmlmVTd

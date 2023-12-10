@@ -1,0 +1,27 @@
+title: Clients
+icon: 🦹🏼‍♀️
+
+status:
+  draft: Locked
+  unlisted: Locked
+  listed: Locked
+
+options:
+  title: false
+  status: false
+  duplicate: false
+  url: false
+  delete: false
+
+sections:
+  clients:
+    extends: sections/agency/clients
+    layout: table
+    columns:
+      email:
+        type: email
+      projects:
+        type: text
+        value: "{{ page.projects.count }}"
+        width: 6rem
+        align: center

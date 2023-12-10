@@ -1,0 +1,7 @@
+title: Error Page
+icon: 🚨
+fields:
+  text:
+    label: Error message
+    type: text
+

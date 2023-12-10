@@ -1,0 +1,5 @@
+Template: blog-article-image
+
+----
+
+Uuid: 72zPdrJtxmszFkaP

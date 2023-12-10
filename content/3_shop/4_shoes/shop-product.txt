@@ -1,0 +1,37 @@
+Title: Shoes
+
+----
+
+Price: 299
+
+----
+
+Brand: Shoobidoo
+
+----
+
+Link: 
+
+----
+
+Shipping: DHL overnight
+
+----
+
+Colors:
+
+- 
+  color: '#005fa9'
+  name: Blue
+
+----
+
+Summary: 
+
+----
+
+Description: <p>Shoes with a pattern</p>
+
+----
+
+Uuid: pZLvEEUxPzWxOF9S

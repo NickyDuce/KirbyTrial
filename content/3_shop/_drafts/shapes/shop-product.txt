@@ -1,0 +1,40 @@
+Title: Shapes
+
+----
+
+Price: 499
+
+----
+
+Brand: More Shapes
+
+----
+
+Link: 
+
+----
+
+Shipping: 
+
+----
+
+Colors:
+
+- 
+  color: '#000000'
+  name: Black
+- 
+  color: '#c1905e'
+  name: Brown
+
+----
+
+Summary: 
+
+----
+
+Description: <p>Not sure what they are for, but they work well as placeholders</p>
+
+----
+
+Uuid: k8RaI9YNv7jT0dPs

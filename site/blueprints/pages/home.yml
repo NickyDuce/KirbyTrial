@@ -1,0 +1,25 @@
+title: Home
+icon: 🏡
+sections:
+  content:
+    type: fields
+    fields:
+      heading:
+        type: text
+      panelHeading:
+        label: Panel heading
+        type: text
+        width: 1/2
+      aboutHeading:
+        label: About heading
+        type: text
+        width: 1/2
+      panelText:
+        label: Panel text
+        type: writer
+        width: 1/2
+      aboutText:
+        label: About text
+        type: writer
+        width: 1/2
+  examples: sections/home/examples

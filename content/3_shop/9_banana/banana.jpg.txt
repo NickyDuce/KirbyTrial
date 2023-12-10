@@ -1,0 +1,33 @@
+Caption: 
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 1
+
+----
+
+Template: shop-product-cover
+
+----
+
+Uuid: XL3859yJwhTiipys
+
+----
+
+Focus: 49.3% 55.2%

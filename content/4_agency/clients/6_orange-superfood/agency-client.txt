@@ -1,0 +1,41 @@
+Title: Orange Superfood
+
+----
+
+Link: https://orange.example.com
+
+----
+
+Email: super.food@example.com
+
+----
+
+Contact: 
+
+----
+
+Address: 
+
+----
+
+Notes: 
+
+----
+
+Clientid: 4
+
+----
+
+Vip: false
+
+----
+
+Vatid: 
+
+----
+
+Phone: 
+
+----
+
+Uuid: N7X3pEfEoRXQddV4
